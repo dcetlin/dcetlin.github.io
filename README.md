@@ -8,5 +8,4 @@ I have not collaborated with anyone for this homework assignment.
 
 The entire assignment took around 6 hours to complete.
 
-The websites to access are: dcetlin.github.io or http://www.cs.tufts.edu/~dcetli01/
-	or http://www.ee.tufts.edu/~dcetli01/
+The websites to access are: https://dcetlin.github.io or http://www.cs.tufts.edu/~dcetli01/ or http://www.ee.tufts.edu/~dcetli01/
