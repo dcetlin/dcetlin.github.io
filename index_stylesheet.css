@@ -1,0 +1,48 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	background-color: gray;
+	border-style: groove;
+	max-height: 100%;
+	max-width: 10%;
+}
+
+div {
+	background-color: white;
+	padding: 10%;
+}
+
+h1 {
+	color: blue; 
+	text-align: center;
+	border-style: dotted;
+	border-color: black;
+	margin: 2%;
+	padding: 2%
+}
+
+img {
+	width: 300px;
+	height: 300px;
+	border-style: double;
+	display: block;
+    margin: 0 auto;
+}
+
+a {
+	display: inline-block;
+	margin: 10px;
+	font-weight: bold;
+	font-size: 200%;
+	color: red;
+	border-color: black;
+	border-style: solid;
+}
+
+#link-container {
+	text-align: center;
+	margin-top: -10%
+}
