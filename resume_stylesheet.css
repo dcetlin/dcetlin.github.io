@@ -1,0 +1,30 @@
+body {
+	padding: 5%;
+	border-style: groove;
+	font-family: "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+}
+
+#main-header {
+	text-align: center;
+	font-family: "Perpetua Titling MT", serif;
+	border-color: black;
+	font-weight: bold;
+	border-style: double;
+	margin-top: -2%;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.no-bullet {
+	list-style-type: none
+}
+
+.categories {
+	text-transform: uppercase;
+}
+
+ul {
+	margin-top: -2px;
+}
